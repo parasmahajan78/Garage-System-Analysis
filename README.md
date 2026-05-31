@@ -73,7 +73,7 @@ Garage System Analysis is a database management project designed to manage and a
 
 ## 📸 Project Screenshot
 
-(Add ER Diagram, Database Schema, or Query Output Screenshot Here)
+![image alt](https://github.com/parasmahajan78/Garage-System-Analysis/blob/016c34e409f3d174d214bf04bd22d0b6cd352ee1/SQL%20garage%20systeam%20analysis/Garage%20Screenshot.png)
 
 ## 👨‍💻 Author
 
